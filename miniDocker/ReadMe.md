@@ -1,4 +1,4 @@
-
+原仓库链接：https://github.com/Camio1945/mini-container
 
 这个 Go 代码的主要作用是实现一个**简化版的容器**，通过使用 Linux 的 `chroot` 和 `cgroup` 机制，实现了一个基本的进程隔离和资源限制环境。以下是逐步解析代码所做的事情：
 
